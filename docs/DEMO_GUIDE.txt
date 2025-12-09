@@ -1,0 +1,51 @@
+DEMO GUIDE - Student Management System v2.0
+============================================
+
+DEMO FLOW (5-7 minutes):
+
+1. INTRO (30 seconds)
+   "This is an enhanced Student Management System with AI-powered analytics"
+   → Run: ./student_system
+   → Point out: Colored UI, professional layout, dashboard on startup
+
+2. CORE FEATURES (1 minute)
+   → Option 1: Add student "CS101, Alice, 20, Computer Science, 9.2"
+   → Option 2: Display all students (show table formatting)
+   → Point out: Color-coded success messages, clean borders
+
+3. ANALYTICS SHOWCASE (2 minutes)
+   → Option 6: Dashboard (explain key metrics)
+   → Option 7: Top Performers (show sorted by GPA)
+   → Option 8: At-Risk Students (show red highlighting)
+   → Option 9: Class Statistics (show distribution chart)
+   → Option 10: Course-Wise Analysis (show grouping)
+
+4. AI FEATURES - THE WOW MOMENT (3 minutes)
+   → Option 11: AI Class Analysis
+     "Using SRMSAi to analyze our class..."
+     → Show AI-generated insights
+   
+   → Option 12: AI Student Intervention (use at-risk student ID)
+     "Now let's get AI recommendations for a struggling student"
+     → Show personalized intervention plan
+   
+   → Option 13: AI Personalized Feedback (use top student ID)
+     "And detailed feedback for our top performer"
+     → Show AI-generated feedback
+
+5. CLOSING (30 seconds)
+   → Mention: Data persistence (students.txt)
+   → Highlight: Modern C++ + AI integration
+   → Tech stack: C++11, Gemini API, Python bridge
+
+KEY TALKING POINTS:
+- "Real-time AI integration using SRMSAi"
+- "Professional-grade UI with ANSI colors and Unicode"
+- "Advanced analytics with STL algorithms"
+- "File-based persistence for data safety"
+- "Modular architecture - easy to extend"
+
+BACKUP PLAN (if AI fails during demo):
+- Have screenshots of AI responses ready
+- Explain: "AI features work via Python bridge to Gemini API"
+- Focus more on analytics features (still impressive!)
